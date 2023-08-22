@@ -1,0 +1,30 @@
+.jordan{
+    width: 20%;
+    height: 500px;
+    margin: 30px 35px;
+}
+.PrimeiraInformacao{
+    display: flex;
+}
+.Texts{
+    margin: 45px 20px;
+}
+.TextDois h2{
+    display: inline-block;
+}
+
+.tenis{
+    display: flex;
+    background-color: rgb(223, 223, 223);
+    margin: 90px 280px;
+}
+.tenisjordan{
+    width: 45%;
+    height: 180px;
+}
+.nometenis{
+    margin: 40px 20px;
+}
+.precotenis{
+    margin: 20px ;
+}
